@@ -90,10 +90,10 @@ Results show strong performance and clear separation between Fake and True artic
 ---
 
 ## 📁 Project Structure
-|── True.csv
-├── Fake.csv
-├── Fake News Detection.ipynb
-├── README.md
+|── True.csv       
+├── Fake.csv         
+├── Fake News Detection.ipynb       
+├── README.md       
 
 ---
 ## 🔮 Future Improvements
